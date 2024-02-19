@@ -6,7 +6,7 @@ require (
 	github.com/go-kratos/kratos/v2 v2.7.2
 	github.com/json-iterator/go v1.1.12
 	k8s.io/api v0.29.1
-	k8s.io/apimachinery v0.29.1
+	k8s.io/apimachinery v0.29.2
 	k8s.io/client-go v0.29.1
 )
 
