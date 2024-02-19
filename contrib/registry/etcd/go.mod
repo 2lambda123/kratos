@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/go-kratos/kratos/v2 v2.7.2
 	go.etcd.io/etcd/client/v3 v3.5.12
-	google.golang.org/grpc v1.61.0
+	google.golang.org/grpc v1.61.1
 )
 
 require (
