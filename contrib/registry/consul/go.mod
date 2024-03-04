@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/go-kratos/kratos/v2 v2.7.2
-	github.com/hashicorp/consul/api v1.27.0
+	github.com/hashicorp/consul/api v1.28.2
 )
 
 require (
